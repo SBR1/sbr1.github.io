@@ -70,13 +70,31 @@
             "tags": "", 
             "text": "The 2016 gallery. TODO", 
             "title": 2016, 
-            "url": "/gallery/2016.html"
+            "url": "/gallery/2016/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Season 2016", 
+            "url": "/gallery/2016/breeding.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Season 2016 bred", 
+            "url": "/gallery/2016/bred.html"
         }, 
         {
             "tags": "", 
             "text": "The 2015 gallery. TODO", 
             "title": 2015, 
-            "url": "/gallery/2015.html"
+            "url": "/gallery/2015/index.html"
+        }, 
+        {
+            "tags": "", 
+            "text": "", 
+            "title": "Season 2015 bred", 
+            "url": "/gallery/2015/bred.html"
         }, 
         {
             "tags": "", 
